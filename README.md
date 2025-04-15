@@ -14,7 +14,7 @@ I'm a sedond-year Information Technology student at State Polytechnic of Malang,
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstorBoy11&layout=pie)](https://github.com/AstorBoy11/github-readme-stats)
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=AstorBoy11&show_icons=false&theme=transparent&hide_rank=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AstorBoy11&show_icons=false&theme=transparent&hide_rank=true&custom_title=My%20Stats)
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aril-ibbet-ardana-putra-250484284/))  
