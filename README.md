@@ -18,3 +18,4 @@ I'm a sedond-year Information Technology student at State Polytechnic of Malang,
 
 ### 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aril-ibbet-ardana-putra-250484284/))  
+[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?logo=google&logoColor=white)](https://g.dev/aril_ardana))
