@@ -1,5 +1,5 @@
 ## Hi there my name is Aril👋 
-I'm a sedond-year Information Technology student at State Polytechnic of Malang, passionate about web development
+I'm a third-year Information Technology student at State Polytechnic of Malang, passionate about web development
 
 -  🌱 Currently learning Laravel
 -  👯 Looking to collaborate on open source
