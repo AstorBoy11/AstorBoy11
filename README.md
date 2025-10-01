@@ -1,7 +1,7 @@
 ## Hi there my name is Aril👋 
 I'm a third-year Information Technology student at State Polytechnic of Malang, passionate about web development
 
--  🌱 Currently learning Laravel
+-  🌱 Currently learning Laravel and Flutter
 -  👯 Looking to collaborate on open source
 
 ### 🛠 Tech Stack
