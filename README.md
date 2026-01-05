@@ -1,7 +1,8 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Aril+Ibbet+Ardana+Putra;Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+Im+everyone,+my+name+Aril;Frontend+Web+Developer;React+%7C+Next.js+%7C+TypeScript" />
 </p>
+
 
 
 ---
@@ -17,21 +18,31 @@
 ---
 
 ## 🛠 Tech Stack
-### 💻 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+### Frontend
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="32" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" />
+</div>
 
-### ⚙ Backend (Basic)
+### Backend (Basic)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### 📱 Mobile
+### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### 🧰 Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -39,16 +50,20 @@
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AstorBoy11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstorBoy11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=AstorBoy11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstorBoy11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AstorBoy11&theme=tokyonight&hide_border=true&show_longest_streak=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=AstorBoy11&theme=tokyonight&hide_border=true&show_longest_streak=true" />
 </p>
+
 
 ---
 
