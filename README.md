@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
+
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
@@ -47,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 <p align="center">
   <img height="160"
        src="https://github-readme-stats.vercel.app/api?username=AstorBoy11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
