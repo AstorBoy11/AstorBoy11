@@ -78,16 +78,16 @@
 
 ## 🚀 Featured Projects
 - **FutureIDX** — Stock insight & prediction web app  
-  _Laravel, React, TypeScript_
+  _Laravel, React, TypeScript, Inertia_
 
-- **MoneyFlow** — Personal finance tracker  
-  _Laravel, React_
+- **Advertisement-Intellegence-Data-Analytics** — traffic analytics  
+  _Typescript, React, Python_
 
 - **MAGNET** — Internship recommendation system  
   _Laravel_
 
 - **CBF Tourism Recommender** — Content-Based Filtering system  
-  _JavaScript_
+  _Next.js, Typescript, React_
 
 - **PBL Jawara Mobile** — Clean architecture mobile app  
   _Flutter_
@@ -107,9 +107,6 @@
   </a>
   <a href="https://www.linkedin.com/in/aril-ibbet-ardana-putra-250484284/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AstorBoy11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/aril_2.4/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
