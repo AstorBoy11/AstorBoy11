@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+everyone,+my+name+is+Aril" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola+a+todos,;%C2%BFc%C3%B3mo+est%C3%A1n+hoy?" />
 </p>
 
 <div align="center">
