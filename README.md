@@ -128,7 +128,7 @@ Laravel
 
 ---
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AstorBoy11&theme=tokyo-night&hide_border=true" />
 </p>
