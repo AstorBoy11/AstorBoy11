@@ -15,7 +15,7 @@
 ⚡ Passionate about building **modern, scalable, and user-friendly web interfaces**
 
 🔗 **Portfolio:**  
-👉 https://astorboy11.github.io/Portofolio
+👉 https://arilardana-portofolio.vercel.app
 
 ---
 
