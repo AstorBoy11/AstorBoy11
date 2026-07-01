@@ -14,7 +14,7 @@
 Hi, I'm **Aril Ardana**, a **Frontend Developer** passionate about building modern, scalable, and user-friendly web applications using **React and TypeScript**.
 
 Third-year **Information Technology student** at **State Polytechnic of Malang (Polinema)**  
-**Frontend JavaScript Intern** at **Utero Kreatif Indonesia**  
+**Digital Transformation Intern** at **PT PAL Indonesia**  
 Interested in **modern UI architecture, performance optimization, and scalable frontend systems**
 
 **Portfolio:**  
@@ -55,18 +55,6 @@ My goal is to create web interfaces that are **fast, maintainable, and user-focu
 ---
 
 # Featured Projects
-
-### FutureIDX
-Stock insight and prediction web application.
-
-**Tech Stack:**  
-React • TypeScript • Laravel • Inertia
-
-**Key Features**
-- Interactive financial charts
-- Stock data filtering and analytics
-- API integration with real-time updates
-
 ---
 
 ### Advertisement Intelligence Data Analytics
@@ -82,15 +70,15 @@ React • TypeScript • Python
 
 ---
 
-### CBF Tourism Recommender
-Content-based recommendation system for tourism destinations.
+### NTB Times
+Local news portal.
 
 **Tech Stack:**  
-Next.js • TypeScript • React
+Laravel • TypeScript • React • Inertia.js
 
 **Key Features**
-- Recommendation engine UI
-- Dynamic data filtering
+- Custom Content Management System (CMS)
+- SEO-optimized rendering
 - Responsive interface
 
 ---
@@ -109,24 +97,6 @@ Laravel
 - **Fundamental Junior Web Developer** — Kominfo Digitalent VSGA (2025)
 
 ---
-
-# GitHub Statistics
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=AstorBoy11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstorBoy11&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
-</p>
-
----
-## GitHub Streak Stats
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AstorBoy11&theme=tokyonight&hide_border=true&show_longest_streak=true" />
-</p>
-
----
-
 ## GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AstorBoy11&theme=tokyo-night&hide_border=true" />
