@@ -2,12 +2,12 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there,+my+name+is+Aril;Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript" />
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there" />
-</p>
+</p> -->
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/61/79/3d/61793d8588130c2ea05abb955326c5d3.gif" width="260"/>
+  <img src="https://i.pinimg.com/originals/4d/f4/18/4df4188640c712e23f141d2b8ddcac0d.gif" width="260"/>
 </div>
 
 ---
@@ -18,7 +18,7 @@ Hi, I'm **Aril**,
 <!-- a **Frontend Developer** passionate about building modern, scalable, and user-friendly web applications using **React and TypeScript**. -->
 
 Third-year **Information Technology student** at **State Polytechnic of Malang (Polinema)**  
-**Digital Transformation Intern** at **PT PAL Indonesia**  
+and **Digital Transformation Intern** at **PT PAL Indonesia (PERSERO)**  
 <!-- Interested in **modern UI architecture, performance optimization, and scalable frontend systems** -->
 
 **Portfolio:**  
