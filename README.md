@@ -2,6 +2,9 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there,+my+name+is+Aril;Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript" />
 </p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there" />
+</p>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/61/79/3d/61793d8588130c2ea05abb955326c5d3.gif" width="260"/>
