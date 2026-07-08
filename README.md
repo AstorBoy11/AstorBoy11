@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there" />
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://i.pinimg.com/originals/4d/f4/18/4df4188640c712e23f141d2b8ddcac0d.gif" width="260"/>
 </div>
 
----
+--- -->
 
 # About Me
 
